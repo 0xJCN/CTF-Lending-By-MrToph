@@ -7,7 +7,7 @@ authors = "0xJCN"
 [tool.poetry.dependencies]
 python = ">=3.10,<3.11"
 vyper = "^0.3.7"
-eth-ape = "^0.5.8"
+eth-ape = "^0.5.9"
 
 [tool.poetry.dev-dependencies]
 
